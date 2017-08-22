@@ -117,4 +117,6 @@ G=Sql_Deal()
 G.write_arry()
 # G.close()
 
+# this is a comment
+
 
