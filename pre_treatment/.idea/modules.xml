@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../experiment_result/.idea/experiment_result.iml" filepath="$PROJECT_DIR$/../experiment_result/.idea/experiment_result.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mysql/.idea/mysql.iml" filepath="$PROJECT_DIR$/../mysql/.idea/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pre_treatment.iml" filepath="$PROJECT_DIR$/.idea/pre_treatment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../select_data/.idea/select_data.iml" filepath="$PROJECT_DIR$/../select_data/.idea/select_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
